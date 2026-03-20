@@ -1,0 +1,23 @@
+{
+  "name": "teste2003",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emymour4S2/teste2003.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emymour4S2/teste2003/issues"
+  },
+  "homepage": "https://github.com/emymour4S2/teste2003#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
